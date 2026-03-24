@@ -1,14 +1,85 @@
-<h1 align="center">Hi 👋, I'm Anshika</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- 👩‍💻 HD CODER GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Anshika</h1>
+<h3 align="center">🚀 A passionate Frontend Developer from India</h3>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=24&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Lover;React+Learner;Open+Source+Contributor" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshika1179&label=Profile%20views&color=ff69b4&style=flat" />
+</p>
+
+---
+
+### 👩‍💻 About Me
+- 🌱 I’m currently learning **React.js & Advanced JavaScript**
+- 💻 I love building **beautiful and responsive web apps**
+- 📫 Reach me at: **your-email@example.com**
+- ⚡ Fun fact: *I turn coffee ☕ into code*
+
+---
+
+### 🌐 Connect with me:
+<p align="center">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/YOUR-USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+<a href="https://twitter.com/YOUR-TWITTER">
+<img src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshika1179&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshika1179&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anshika1179&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📈 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshika1179&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
 <div align="center">
-  
+
 ![snake gif](https://github.com/anshika1179/anshika1179/blob/output/github-snake-dark.svg)
+
 </div>
+
+---
+
+### ✨ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
