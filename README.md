@@ -1,6 +1,6 @@
 <!-- 👩‍💻 HD CODER GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJ0YmR2Y21xZG8ycWl4bDJ6bmhheGM3ZmR5ZXVxdGhlMGlvM2d6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vnOHnjfm8uJkZW4ky4/giphy.gif" width=100% />
 </p>
 
 <h1 align="center">Hi 👋, I'm Anshika</h1>
