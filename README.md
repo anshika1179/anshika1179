@@ -21,7 +21,6 @@
 ### 👩‍💻 About Me
 - 🌱 I’m currently learning **React.js & Advanced JavaScript**
 - 💻 I love building **beautiful and responsive web apps**
-- 📫 Reach me at: **your-email@example.com**
 - ⚡ Fun fact: *I turn coffee ☕ into code*
 
 ---
